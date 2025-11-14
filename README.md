@@ -13,3 +13,9 @@
   - update research project pages as needed.
 3. Submit pull request. Prof. Nilles will review the pull request and if
 approved, will sync to the live site.
+
+# Preview Locally
+
+1. Acquire a Jekyll installation
+2. Run `jekyll build` in the top level of the repo
+3. Site will build in the `_site/` directory.
