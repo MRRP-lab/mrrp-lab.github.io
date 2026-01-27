@@ -16,6 +16,6 @@ approved, will sync to the live site.
 
 # Preview Locally
 
-1. Acquire a Jekyll installation
+1. Acquire a [Jekyll](https://jekyllrb.com/docs/) installation
 2. Run `jekyll build` in the top level of the repo
 3. Site will build in the `_site/` directory.
