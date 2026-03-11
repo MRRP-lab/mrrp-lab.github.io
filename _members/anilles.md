@@ -15,9 +15,9 @@ I like robots, nature, cats, and bicycles, not necessarily in that order.
 "
 
 #OPTIONAL
-pronouns: she/they #example: they/them/theirs, he/him/his, she/her/hers, etc
+pronouns: she/her #example: they/them/theirs, he/him/his, she/her/hers, etc
 website: https://alli.nilles.info #Enter your personal/professional website
 twitter: #username
 linkedin: #username
-github: #username
+github: alexandroid000
 ---
