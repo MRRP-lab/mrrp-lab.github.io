@@ -1,8 +1,12 @@
-SHELL := /bin/zsh
+#SHELL := /bin/zsh
 BUNDLE := bundle
 JEKYLL := $(BUNDLE) exec jekyll
 
 default: build
+
+preview: install
+	$(JEKYLL) build
+	$(JEKYLL) serve
 
 build: install
 	$(JEKYLL) build

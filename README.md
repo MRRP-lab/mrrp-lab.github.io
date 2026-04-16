@@ -9,10 +9,10 @@
 
 1. Create your own branch of this repository
 2. Make desired updates
-  - try to add a photo and bio. Include an external link if desired (personal website, linkedIn, etc).
-  - update research project pages as needed.
-3. Submit pull request. Prof. Nilles will review the pull request and if
-approved, will sync to the live site.
+  - Create a profile in `_members` by copying the `_template.md` markdown file. Try to add a photo and bio. Include an external link if desired (personal website, linkedIn, etc).
+  - update research project pages in the `research/` directory as needed.
+3. Commit your changes to markdown files and submit pull request. Prof. Nilles will review the pull request and if
+approved, will build and sync to the live site.
 
 # Preview Locally
 
