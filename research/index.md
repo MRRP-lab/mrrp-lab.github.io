@@ -4,25 +4,43 @@ layout: default
 group: research
 ---
 
-# Our research
+# Research Themes
 
-Our research goal is to develop novel computational approaches to designing and
-controlling mobile robots, especially for tasks in challenging environments
-such as forests and underwater. To do this, we identify environment structures
-that can assist mobile robots in localization, navigation, and other sub-tasks
-and we intentionally design the robot hardware and software to leverage this
-environment structure. The most famous examples of this approach are robot
-vacuums -- the early models did zero mapping or localization and relied on
-stochastic coverage guarantees to guarantee they will eventually cover an
-entire floor just by turning randomly when a bump sensor is triggered.
+Research projects below are grouped by theme. Click the header of each project
+for more information. An up-to-date list of publications
+can be found on [Google
+Scholar](https://scholar.google.com/citations?hl=en&user=3AvC70UAAAAJ&view_op=list_works&authuser=2&sortby=pubdate).
+
+## Minimalist Technologies for Accessibility
+
+We are interested in low-cost DIY technologies that either empower individuals
+with disabilities, or contribute to identifying places that require
+infrastructure improvements to be more accessible.
+
+We collaborate with [Dr. Jesse
+Leaman](https://gryphonfoundation.org/pages/research.html) and our work has been
+accelerated by his very generous donation of a Permobil power wheelchair. We
+also collaborate with the Mapping Accessibility Project (MAP) at Western
+Washington University, led by [Dr. Francisco Laso](https://cenv.wwu.edu/people/francisco-laso).
+
+### [aiChair: Indoor Functionality](aichair-indoor)
+
+
+### [aiChair: Outdoor Mapping of Accessibility](aichair-outdoor)
+
+
+{% include image.html src="/static/img/logo/MAP_logo.png" alt="alt" caption="" %}
+
+
+# Planning
+
+Add info on motion planning in tidal environments.
+
+# Multi-Robot Systems
 
 By minimizing the resources used by each robot, we can make multi-robot systems more
-scalable (both to larger numbers and smaller robots). Our research group also
-looks at distributed algorithms for large multi-agent collectives, with a
+scalable (both to larger numbers and smaller robots). Our research group looks at
+distributed algorithms for large multi-agent collectives, with a
 special focus on maintaining formal guarantees on collective behavior.
 
-Part of achieving real-world robustness and safety involves the principled design of
-interfaces and specifications where humans are in the loop, so our work also involves
-human-computer/robot interaction (HCI/HRI) and programming language / API
-development.
-
+Add plinko project here.
