@@ -23,10 +23,10 @@ accelerated by his very generous donation of a Permobil power wheelchair. We
 also collaborate with the Mapping Accessibility Project (MAP) at Western
 Washington University, led by [Dr. Francisco Laso](https://cenv.wwu.edu/people/francisco-laso).
 
-### [aiChair: Indoor Functionality](aichair-indoor)
+### [aiChair: Indoor Functionality]({% link research/aichair-indoor.md %})
 
 
-### [aiChair: Outdoor Mapping of Accessibility](aichair-outdoor)
+### [aiChair: Outdoor Mapping of Accessibility]({% link research/aichair-outdoor.md %})
 
 
 {% include image.html src="/static/img/logo/MAP_logo.png" alt="alt" caption="" %}
