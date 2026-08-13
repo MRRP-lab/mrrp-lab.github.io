@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>MRRP Lab News</title>
+  <link href="http://localhost:4000"/>
+  <link type="application/atom+xml" rel="self" href="http://localhost:4000/news.xml"/>
+  <updated>2026-08-13T12:02:17-07:00</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>Alexandra Nilles</name>
+    <!-- <email>you@example.com</email> -->
+  </author>
+
+  
+  <entry>
+    <id>http://localhost:4000/2024/11/14/lab-launch</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2024/11/14/lab-launch/"/>
+    <title>Lab Launch!</title>
+    <published>2024-11-14T00:00:00-08:00</published>
+    <updated>2024-11-14T00:00:00-08:00</updated>
+    <author>
+      <name>Alexandra Nilles</name>
+      <uri>/2024/11/14/lab-launch/</uri>
+    </author>
+    <content type="html">&lt;p&gt;The lab is officially launching!! Check out some
+&lt;a href=&quot;https://news.wwu.edu/wwu-celebrates-kaiser-borsari-hall-opening-a-landmark-in-sustainable-design&quot;&gt;coverage and photos&lt;/a&gt;
+of the opening of our new building, Kaiser Borsari Hall!&lt;/p&gt;
+
+&lt;p&gt;I was honored to be included in the ribbon-cutting ceremony, along with our Elios 3
+drone, an inspiring piece of Swiss technology. Thank you to everyone involved in this
+project, cannot wait to see the projects created in this amazing space!&lt;/p&gt;
+</content>
+  </entry>
+  
+ 
+</feed>
