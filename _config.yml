@@ -3,6 +3,11 @@ description: "This is the official web page for the MRRP Lab at WWU."
 
 url: "https://mrrp.cs.wwu.edu"
 baseurl: /
+lsi: false
+safe: true
+highlighter: rouge
+gist:
+  noscript: false
 
 paginate: 5
 plugins: [jekyll-paginate]
@@ -12,6 +17,8 @@ permalink: pretty
 markdown: kramdown
 kramdown:
   parse_block_html: true
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 exclude:
         - .sass-cache/
@@ -24,6 +31,9 @@ exclude:
         - vendor/cache/
         - vendor/gems/
         - vendor/ruby/
+
+include:
+        - _site/
 
 collections:
         affiliates:
